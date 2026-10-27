@@ -2,3 +2,7 @@
 
 wip.
 this Github was created mainly for PonyTown
+
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SHADOWMlLKCOOKIE.visitor-badge&left_text=Minions%20that%20visited&left_color=%233477fe&right_color=%235cabff&radius=10&height=30" alt="visitor badge"/>
+</p>
