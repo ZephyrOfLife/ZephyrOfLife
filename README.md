@@ -2,6 +2,6 @@
 
 wip.
 
-this Github was created mainly for PonyTown, please read my strawpage if you wanna get to know me
+this Github was created mainly for PonyTown, please read my 2 strawpages if you wanna get to know me
 
 
